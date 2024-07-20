@@ -2946,3 +2946,16 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.20-12.46.54:850][854]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 1.87 sec)
 [2024.07.20-12.46.54:857][854]AssetCheck: New page: Asset Save: BP_Meteor_2
 [2024.07.20-12.46.54:857][854]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Meteor_2.BP_Meteor_2
+[2024.07.20-12.47.22:303][255]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2024.07.20-12.47.22:308][255]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/HS/GAT3SWFMARMJX2LETAGXHV_Auto2
+[2024.07.20-12.47.22:308][255]LogSavePackage: Moving '../../../../projler/githup/UzaygemisiOyunu/Saved/GAT3SWFMARMJX2LETAGXHV_Auto267115527402FA833EB207B8FEBCCB709.tmp' to '../../../../projler/githup/UzaygemisiOyunu/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/HS/GAT3SWFMARMJX2LETAGXHV_Auto2.uasset'
+[2024.07.20-12.47.22:311][255]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/67/XYZI78LKJS5X5BULJMLC6E_Auto2
+[2024.07.20-12.47.22:311][255]LogSavePackage: Moving '../../../../projler/githup/UzaygemisiOyunu/Saved/XYZI78LKJS5X5BULJMLC6E_Auto293C9E5FC4EC4EFF300751B90B4E9A8C8.tmp' to '../../../../projler/githup/UzaygemisiOyunu/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/67/XYZI78LKJS5X5BULJMLC6E_Auto2.uasset'
+[2024.07.20-12.47.22:315][255]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HG/BLYIQ2TY01E6T2MTFTWKNP_Auto2
+[2024.07.20-12.47.22:315][255]LogSavePackage: Moving '../../../../projler/githup/UzaygemisiOyunu/Saved/BLYIQ2TY01E6T2MTFTWKNP_Auto26E38110743754726EF682EAC9D55A3EF.tmp' to '../../../../projler/githup/UzaygemisiOyunu/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HG/BLYIQ2TY01E6T2MTFTWKNP_Auto2.uasset'
+[2024.07.20-12.47.22:318][255]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/4A/YPO02DESR3K2XXKDLRI8TI_Auto2
+[2024.07.20-12.47.22:318][255]LogSavePackage: Moving '../../../../projler/githup/UzaygemisiOyunu/Saved/YPO02DESR3K2XXKDLRI8TI_Auto263624FD7433D6C0FA8B111BE9D328BBB.tmp' to '../../../../projler/githup/UzaygemisiOyunu/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/4A/YPO02DESR3K2XXKDLRI8TI_Auto2.uasset'
+[2024.07.20-12.47.22:323][255]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/W5/GB6D3O25GSA0KBNCZBOYTP_Auto2
+[2024.07.20-12.47.22:323][255]LogSavePackage: Moving '../../../../projler/githup/UzaygemisiOyunu/Saved/GB6D3O25GSA0KBNCZBOYTP_Auto2918FC20E4ED984BAFC45898FA7033818.tmp' to '../../../../projler/githup/UzaygemisiOyunu/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/W5/GB6D3O25GSA0KBNCZBOYTP_Auto2.uasset'
+[2024.07.20-12.47.22:324][255]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.054
+[2024.07.20-12.47.22:324][255]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.054
